@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NiTinRao0001
 - 👀 I’m interested in working with c and cpp team.
 - 🌱 I’m currently learning c and cpp deeply.
-- 💞️ I’m looking to collaborate on c/c++ project.
+- 💞️ I’m looking to collaborate in c/c++ project.
 - 📫 How to reach me - https://dsc.gg/radic @...
 
 <!---
